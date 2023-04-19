@@ -5,7 +5,7 @@
 ### Personal Projects
 
 [Market Price forecasting with LSTMs](https://github.com/jaysavani1/Live-Crypto-Price-Prediction)
-<img src="images/CRYP_COVER.jpg?raw=true"/>
+<img src="images/CRYP_COVER.png?raw=true"/>
 
 ---
 [Recommendation system with Sentiment analysis](https://github.com/jaysavani1/Movie-Recommendation-System)
