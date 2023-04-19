@@ -6,7 +6,7 @@
 
 
 [Recommendation system with Sentiment analysis](https://github.com/jaysavani1/Movie-Recommendation-System)
-<img src="images/title.png?raw=true"/>
+<img src="images/MRS_COVER.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
