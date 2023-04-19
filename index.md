@@ -4,6 +4,10 @@
 
 ### Personal Projects
 
+[HyperXGBoostRegressor with Bayesian parameter Tuning](https://github.com/jaysavani1/HyperXGBoost)
+<img src="images/HPXGB_COVER.png?raw=true"/>
+
+---
 [Market Price forecasting with LSTMs](https://github.com/jaysavani1/Live-Crypto-Price-Prediction)
 <img src="images/CRYP_COVER.png?raw=true"/>
 
@@ -12,8 +16,6 @@
 <img src="images/MRS_COVER.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
