@@ -4,13 +4,12 @@
 
 ### Personal Projects
 
-
-[Recommendation system with Sentiment analysis](https://github.com/jaysavani1/Movie-Recommendation-System)
-<img src="images/MRS_COVER.png?raw=true"/>
+[Market Price forecasting with LSTMs](https://github.com/jaysavani1/Live-Crypto-Price-Prediction)
+<img src="images/CRYP_COVER.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Recommendation system with Sentiment analysis](https://github.com/jaysavani1/Movie-Recommendation-System)
+<img src="images/MRS_COVER.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
